@@ -1,0 +1,14 @@
+# Archivos de instalación de kernel y dependencias R
+.RData
+.Rhistory
+.Rproj.user/
+.Rproj
+.Rbuildignore
+.Renviron
+.Rprofile
+.Rprofile.site
+.Rinstignore
+.Rdignore
+.Rcheck/
+.Rtable
+.Rproj.user/
